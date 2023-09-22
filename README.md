@@ -1,7 +1,7 @@
 # 3-Months-Data-Science-Internship
 DATA SCIENCE INTERNSHIP PROPOSAL
 The data science internship is designed to run for three (3) months
-## Month 1: Python Programming
+## [Month 1: Python Programming]https://github.com/eaniyom/3-Months-Data-Science-Internship/tree/master/Month%201%20-%20Python%20Programming
 1.	Introduction
 2.	Python Basics
 3.	Python for Data Analysis (Numpy)
