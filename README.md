@@ -8,7 +8,7 @@ The data science internship is designed to run for three (3) months
 4.	Python for Data Analysis (Pandas)
 5.	Python for Data Analysis (Matplotlib)
 6.	Project 1
-## Month 2: Statistics and Applied Mathematics
+## [Month 2: Statistics and Applied Mathematics](https://github.com/eaniyom/3-Months-Data-Science-Internship/tree/master/Month%202%20-%20Statisitics%20and%20Applied%20Mathematics)
 1.	Statistics One: Basic Concepts & Fundamentals
 2.	Statistics Two: Descriptive Statistics 
 3.	Practical Statistics
