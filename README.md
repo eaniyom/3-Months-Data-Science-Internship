@@ -14,7 +14,7 @@ The data science internship is designed to run for three (3) months
 3.	Practical Statistics
 4.	Fundamental Mathematics: Algebraic 
 5.	Project 2
-## Month 3: Machine Learning I & II
+## [Month 3: Machine Learning I & II](https://github.com/eaniyom/3-Months-Data-Science-Internship/tree/master/Month%203%20-%20Machine%20Learning%20I%20%26%20II)
 1.	Classification Modeling
 2.	Regression Modeling
 3.	Project 3.1
